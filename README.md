@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @M4riukas
 - 👀 I’m interested in cheating, hacking, coding
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on cheat developing
+- 💣 I’m currently learning C++
+- 🧭 I’m looking to collaborate on cheat developing
 - 📫 You can reach me by adding my discord M4R#1337
 
 <!---
